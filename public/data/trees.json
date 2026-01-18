@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1685478677113-8c4a58503230?q=80&w=500",
+    "name": "Mango Tree",
+    "description": "A fast-growing tropical tree that produces delicious, juicy mangoes during summer. Its dense green canopy offers shade, while its sweet fruits are rich in vitamins and minerals.",
+    "category": "Fruit Tree",
+    "price": 500
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1528279335935-f486951a6adf?q=80&w=600",
+    "name": "Banana Tree",
+    "description": "A tropical plant known for its large leaves and sweet bananas. It grows quickly and thrives in warm, humid climates.",
+    "category": "Fruit Tree",
+    "price": 400
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1680093762189-7c139cc3aa8e?q=80&w=600",
+    "name": "Apple Tree",
+    "description": "A deciduous tree that produces crisp and juicy apples. Ideal for temperate climates and home gardens.",
+    "category": "Fruit Tree",
+    "price": 650
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1597714026720-8f74c62310ba?q=80&w=600",
+    "name": "Orange Tree",
+    "description": "A citrus tree producing sweet and tangy oranges packed with vitamin C. Perfect for sunny locations.",
+    "category": "Fruit Tree",
+    "price": 550
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1682330681951-17b874c6b37a?q=80&w=500",
+    "name": "Lemon Tree",
+    "description": "A small evergreen tree known for its bright yellow, sour fruits widely used in cooking and drinks.",
+    "category": "Fruit Tree",
+    "price": 480
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1766308447374-86baf87de4b0?q=80&w=800",
+    "name": "Guava Tree",
+    "description": "A hardy tropical tree producing fragrant and nutritious guava fruits rich in fiber and vitamin C.",
+    "category": "Fruit Tree",
+    "price": 420
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1625007507813-28644d7d8b03?q=80&w=600",
+    "name": "Papaya Tree",
+    "description": "A fast-growing tropical tree bearing soft, sweet papayas that aid digestion and boost immunity.",
+    "category": "Fruit Tree",
+    "price": 450
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1552728213-d7a5eba76140?q=80&w=600",
+    "name": "Coconut Tree",
+    "description": "A tall tropical palm tree producing coconuts used for water, oil, and food.",
+    "category": "Palm Tree",
+    "price": 900
+  },
+  {
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1552728213-d7a5eba76140?q=80&w=600",
+    "name": "Peach Tree",
+    "description": "A deciduous fruit tree producing soft, sweet peaches during summer seasons.",
+    "category": "Fruit Tree",
+    "price": 620
+  },
+  {
+    "id": 10,
+    "image": "https://images.unsplash.com/photo-1723530092097-fbd5f6b11990?q=80&w=600",
+    "name": "Plum Tree",
+    "description": "A compact fruit tree known for its juicy plums and beautiful spring blossoms.",
+    "category": "Fruit Tree",
+    "price": 580
+  },
+  {
+    "id": 11,
+    "image": "https://images.unsplash.com/photo-1682165112296-1d8d72bd0b3d?q=80&w=600",
+    "name": "Cherry Tree",
+    "description": "A popular fruit tree producing sweet and tart cherries with stunning spring flowers.",
+    "category": "Fruit Tree",
+    "price": 700
+  },
+  {
+    "id": 12,
+    "image": "https://images.unsplash.com/photo-1629194215882-0d6976e9d960?q=80&w=400",
+    "name": "Pineapple Plant",
+    "description": "A tropical plant producing sweet and tangy pineapples, suitable for warm climates.",
+    "category": "Fruit Plant",
+    "price": 350
+  },
+  {
+    "id": 13,
+    "image": "https://images.unsplash.com/photo-1625173617589-770990c4a3f9?q=80&w=500",
+    "name": "Olive Tree",
+    "description": "A slow-growing tree valued for its olives and long lifespan, ideal for dry climates.",
+    "category": "Fruit Tree",
+    "price": 800
+  },
+  {
+    "id": 14,
+    "image": "https://images.unsplash.com/photo-1631423733190-aafb5b265a2a?q=80&w=500",
+    "name": "Pear Tree",
+    "description": "A fruit-bearing tree producing sweet and juicy pears, suitable for home orchards.",
+    "category": "Fruit Tree",
+    "price": 600
+  },
+  {
+    "id": 15,
+    "image": "https://images.unsplash.com/photo-1692817875884-a7461e3158f6?q=80&w=500",
+    "name": "Pomegranate Tree",
+    "description": "A drought-tolerant tree producing antioxidant-rich pomegranates.",
+    "category": "Fruit Tree",
+    "price": 650
+  },
+  {
+    "id": 16,
+    "image": "https://images.unsplash.com/photo-1760401292083-5d61e6a3b39c?q=80&w=500",
+    "name": "Jackfruit Tree",
+    "description": "A large tropical tree producing the world's largest tree-borne fruit.",
+    "category": "Fruit Tree",
+    "price": 850
+  },
+  {
+    "id": 17,
+    "image": "https://images.unsplash.com/photo-1585242902894-e8a65ecbe1ef?q=80&w=500",
+    "name": "Avocado Tree",
+    "description": "A nutrient-rich fruit tree producing creamy avocados used in many cuisines.",
+    "category": "Fruit Tree",
+    "price": 750
+  },
+  {
+    "id": 18,
+    "image": "https://images.unsplash.com/photo-1705335834319-92a152363ea1?q=80&w=600",
+    "name": "Lychee Tree",
+    "description": "A tropical tree producing sweet, fragrant lychee fruits with rough red skin.",
+    "category": "Fruit Tree",
+    "price": 700
+  },
+  {
+    "id": 19,
+    "image": "https://images.unsplash.com/photo-1581282041132-e947056c7c94?q=80&w=600",
+    "name": "Fig Tree",
+    "description": "A hardy tree producing soft and sweet figs, rich in fiber and minerals.",
+    "category": "Fruit Tree",
+    "price": 550
+  },
+  {
+    "id": 20,
+    "image": "https://images.unsplash.com/photo-1604302882991-b75900e23890?q=80&w=500",
+    "name": "Date Palm",
+    "description": "A desert-friendly palm tree producing sweet and energy-rich dates.",
+    "category": "Palm Tree",
+    "price": 950
+  }
+]
